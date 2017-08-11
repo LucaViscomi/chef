@@ -1,0 +1,1 @@
+default['ntp']['peers'] = ['ntp1.myinfra.com', 'ntp2.myinfra.com']
